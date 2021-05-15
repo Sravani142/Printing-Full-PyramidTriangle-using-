@@ -1,8 +1,7 @@
 # Printing-Full-PyramidTriangle-using-*
 This is first repository
 
-As you can understand to print triangle, we would first need to print a space("") for number of time then asterisk(*) then new line(/n), and repeat the procedure.
-
+You can print pyramid pattren of stars or numbers using loops and print methods in java. There are two print method you need to know, System.out.print() and System.out.println(), the difference between print() and println() is that println adds a new line character at the end i.e. it appends \n automatically.
 
 //declare variables
 

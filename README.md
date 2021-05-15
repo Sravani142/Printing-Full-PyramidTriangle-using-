@@ -31,3 +31,5 @@ let's start with outer loop to loop through rows which will be dependent on vari
 //now loop to print *, check formular here it is 2n-1 this is because
 
 //we need to print * odd number of times to get our pattern out
+
+![Untitled3](https://user-images.githubusercontent.com/84003407/118361719-47e21a00-b5aa-11eb-82b6-a67b62d04b87.png)

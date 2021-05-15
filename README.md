@@ -14,3 +14,4 @@ As you can understand to print triangle, we would first need to print a space(""
 
 //but "temp" value will be decreased after each loop
 
+![Assign](https://user-images.githubusercontent.com/84003407/118361090-68f53b80-b5a7-11eb-9d76-ef9b6574cd8d.png)

@@ -8,3 +8,9 @@ As you can understand to print triangle, we would first need to print a space(""
 
 ![Declaration](https://user-images.githubusercontent.com/84003407/118357965-44df2d80-b59a-11eb-8be7-4d01d1eca3c6.png)
 
+//Set n value in temp because this is help us print blank space before printing *
+
+//now we need temp as we need to keep value of "n" same through out the program
+
+//but "temp" value will be decreased after each loop
+

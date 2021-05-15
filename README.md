@@ -22,6 +22,7 @@ let's start with outer loop to loop through rows which will be dependent on vari
 
 // here c start with 1 and will keep printing space util it's value is greater current "temp" value
 
+![Untitled1](https://user-images.githubusercontent.com/84003407/118361715-46185680-b5aa-11eb-96b8-843ee75d8156.png)
 
 //decrese temp value to print one less space next time we loop
 

@@ -18,3 +18,4 @@ As you can understand to print triangle, we would first need to print a space(""
 
 let's start with outer loop to loop through rows which will be dependent on variable "n"
 
+![Untitled](https://user-images.githubusercontent.com/84003407/118361277-4c0d3800-b5a8-11eb-9129-f43e5c3e1c32.png)

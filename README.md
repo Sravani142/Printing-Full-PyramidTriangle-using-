@@ -26,6 +26,7 @@ let's start with outer loop to loop through rows which will be dependent on vari
 
 //decrese temp value to print one less space next time we loop
 
+![Untitled2](https://user-images.githubusercontent.com/84003407/118361717-47498380-b5aa-11eb-8d10-97595dd7331a.png)
 
 //now loop to print *, check formular here it is 2n-1 this is because
 
